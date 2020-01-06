@@ -98,3 +98,7 @@ The manuscript text is not open source. The authors reserve the rights to the
 article content, which is currently submitted for publication in the
 JOURNAL NAME.
 
+
+## References
+
+[1] https://github.com/pinga-lab/paper-template
