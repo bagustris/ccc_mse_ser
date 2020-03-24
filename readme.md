@@ -1,9 +1,9 @@
-# Paper template for the pinga-lab (*replace with paper title*)
+# Repository for my paper: *Evaluation of Error and Correlation-Based Loss Functions For Multitask Learning Dimensional Speech Emotion Recognition*
 
 by
 Bagus Tris Atmaja
-Author 2,
-etc
+Masato Akagi,
+Email: bagus@ep.its.ac.id
 
 > This is a template for papers that use Python code and Jupyter notebooks to
 > generate their results (though it can be adapted to use other technologies).
