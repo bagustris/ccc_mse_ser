@@ -8,7 +8,7 @@ Email: bagus@ep.its.ac.id
 > This is a repository for that papers that provide Python codes, Latex codes 
 > figures, and other materials.
 
-This paper has been submitted for publication in *EUSIPCO 2020*.
+This paper has been submitted for publication in *APSIPA 2020*.
 
 ![](fig/ccc_mse_system.png)
 
