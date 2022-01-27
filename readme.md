@@ -97,6 +97,8 @@ EUSIPCO 2020.
 
 ## Citation
 
-``` Atmaja, Bagus Tris and Akagi, Masato. Evaluation of Error and Correlation-Based Loss Functions 
-For Multitask Learning Dimensional Speech Emotion Recognition. 2020.
+``` 
+B. T. Atmaja and M. Akagi, “Deep Multilayer Perceptrons for Dimensional Speech Emotion Recognition,” 
+in 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, 
+APSIPA ASC 2020 - Proceedings, 2020, pp. 325–331.
 ```
