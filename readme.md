@@ -1,11 +1,11 @@
-# Repository for my paper: *Evaluation of Error and Correlation-Based Loss Functions For Multitask Learning Dimensional Speech Emotion Recognition*
+### *Evaluation of Error and Correlation-Based Loss Functions For Multitask Learning Dimensional Speech Emotion Recognition*
 
 by
 Bagus Tris Atmaja
 Masato Akagi,
 Email: bagus@ep.its.ac.id
 
-> This is a repository for that papers that provide Python codes, Latex codes 
+> This is a repository for that paper that provide Python codes, Latex codes 
 > figures, and other materials.
 
 This paper has been submitted for publication in *APSIPA 2020*.
