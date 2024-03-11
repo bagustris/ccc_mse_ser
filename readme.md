@@ -75,12 +75,17 @@ dependencies in it:
 
 ## Reproducing the results
 
-Before running any code you must activate the conda environment:
+Before running any code, you must activate the conda environment:
 
     source activate REPO_NAME
 
-To reproduce result in , run the following in order:  
+To reproduce the result, run the following in order:  
+### Extract Features
+Search the code the generate feature under my profile. An example is to use code from 
+the following repo: https://github.com/bagustris/dimensional-ser/tree/master/code/extract_feature
+
 ```bash
+$ python code/ser_iemocap_gemaps_ccc.py
 ```
 
 
@@ -90,10 +95,8 @@ All source code is made available under a BSD 3-clause license. You can freely
 use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE.md` for the full license text.
 
-The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in the
-EUSIPCO 2020.
-
+The manuscript text is not open source. The authors reserve the right to the
+article content.
 
 ## Citation
 
